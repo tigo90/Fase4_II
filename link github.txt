@@ -9,6 +9,8 @@ http://192.168.0.92:8501
 
 link do painel analítico
 
-https://datastudio.google.com/reporting/85f148ae-ced9-4232-8c92-c904cb597a92
+https://datastudio.google.com/u/0/reporting/85f148ae-ced9-4232-8c92-c904cb597a92/page/0xZxF
+
+
 
 
